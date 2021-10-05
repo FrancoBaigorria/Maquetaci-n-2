@@ -377,4 +377,18 @@
     #lateral input[type="text"]{
         padding-left: 0px;
     }
+
+
+}
+
+@media (max-width: 430px){
+    
+    #menu ul li{
+        font-size: 19px;
+        display: inline-block;
+        margin: 0px 10px 0px 20px;
+        letter-spacing: 1px;
+        line-height: 70px;
+    }
+
 }
